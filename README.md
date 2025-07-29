@@ -1,3 +1,8 @@
+Refreshing my React and git skills. Normal rules apply as desplayed below. 
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
