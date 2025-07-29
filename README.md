@@ -1,3 +1,5 @@
+#Cesar Garcia
+##About
 Refreshing my React and git skills. Normal rules apply as desplayed below. 
 
 
